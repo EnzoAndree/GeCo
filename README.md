@@ -128,6 +128,8 @@ Now open and see.
 
 Resalted is the genomes with more than 80% of conservation for 5 Queries.
 
+All output files of this example is on [Example](https://github.com/EnzoAndree/GeCo/tree/master/img) folder
+
 ## Citation
 
 Altschul SF1, Gish W, Miller W, Myers EW, Lipman DJ.	
